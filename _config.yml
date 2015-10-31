@@ -1,0 +1,23 @@
+name: AI Magazine
+favicon: null
+layout_spectrum: 0.5142115738708526
+typography_spectrum: 0.16877081850543618
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7957668085582554
+  lightness: 0.23982876213267446
+  saturation: 0.6599304201081395
+  rhythmicContrast: 0.7923145745880902
+purpose: []
