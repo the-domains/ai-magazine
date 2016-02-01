@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[AI Magazine]]></title>
+        <description><![CDATA[AI Magazine]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 01 Feb 2016 08:47:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Google's neural nets are mastering one of the most complex games in the world]]></title>
+            <description><![CDATA[<article><h1>Google's neural nets are mastering one of the most complex games in the world</h1><p>A neural net system built by Google has beaten the European champion in the Chinese game of Go, winning five out of five games and crossing a new threshhold for machine intelligence. In a Google post and a paper published today in Nature , DeepMind researchers revealed how the system was constructed and how it was able to succeed where decades of previous Go systems have failed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/08d387afc98cfcf087c3d3d542ee23d56c655c9c.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/1/27/10846278/google-deepmind-go-champion-artificial-intelligence</link>
+            <guid isPermaLink="false">da08308a-31a7-4d6f-b1dd-815b871b1013</guid>
+            <pubDate>Mon, 01 Feb 2016 08:47:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
