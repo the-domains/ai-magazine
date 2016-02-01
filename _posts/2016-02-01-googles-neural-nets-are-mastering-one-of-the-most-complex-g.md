@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'http://www.theverge.com'
   name: The Verge
-  favicon: 'https://cdn0.vox-cdn.com/images/verge/favicon.vc44a54f.ico'
   domain: www.theverge.com
+  url: 'http://www.theverge.com'
+  favicon: 'https://cdn0.vox-cdn.com/images/verge/favicon.vc44a54f.ico'
 keywords:
   - deepmind
   - google
@@ -25,13 +25,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.theverge.com/2016/1/27/10846278/google-deepmind-go-champion-artificial-intelligence'
 title: "Google's neural nets are mastering one of the most complex games in the world"
-datePublished: '2016-02-01T08:47:43.747Z'
-dateModified: '2016-02-01T08:46:21.463Z'
+datePublished: '2016-02-01T08:50:30.264Z'
+dateModified: '2016-02-01T08:50:26.107Z'
 sourcePath: _posts/2016-02-01-googles-neural-nets-are-mastering-one-of-the-most-complex-g.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
